@@ -1,2 +1,2 @@
 # weather_app
-Learning React Native by Building a Forking Weather App
+Learning React Native by Building a Weather App
